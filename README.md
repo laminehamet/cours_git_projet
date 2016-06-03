@@ -7,3 +7,5 @@ Ce projet entammé 01 avril 2016 consiste à concevoir un ite web dédié à la 
    indicateurs économiques publiés chaque mois. Par exemple il peut s'agir des indicateurs liés à la pêche, à l'artisanat, ou encore des échanges commerciaux avec l'extérieur.
 Technologies utilisées: à ce jours j'ai utilié deux technologies pour réaliser ce projet: DB-MAIN et MySQl Wokbench. 
 Dans la suite, j'aurais à tiliser HTML5/CSS3, MySQL, PHP, JavaScript pour la conception de l'interface web dynamique. C'est dans cet objectif que je suis des parcours sur Openclasrooms
+
+Ajout d'une ligne : à la fin de ce parcours , ce compte entamer le parcours developpeur front end
